@@ -3,7 +3,7 @@ This is the repository for Reagan (Gen) LI's BCB430 summer project.//
 
 The BCB430 summer project aims to construct a machine learning model that can classify genes into cancer genes and non-cancer genes according to the structure information extracted from protein-protein interaction (PPI) network data.//
 
-The code for the project can be found in src, the steps of the project are listed in order of 1 to 6 in the src folder.//
+The code for the project can be found in src, the steps of the project are listed in order of 001 to 006 in the src folder.//
 001 is used for the pre-processing of the PPI data.//
 002 is used to construct a graph according to the PPI data.//
 003 is for some diagnostic analysis on the graph generated from PPI data.//
