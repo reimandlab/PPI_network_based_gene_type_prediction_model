@@ -14,7 +14,7 @@ The code for the project can be found in src, the steps of the project are liste
 006 is used to train, validate and test the classfier using generated features.
 
 
-Note: src/node2vec are not wrtten by Gen LI. it is an implementation from Aditya Grover and Jure Leskovec, whose ciation is shown below:
+Note: src/node2vec are not wrtten by Gen LI. It is an implementation from Aditya Grover and Jure Leskovec, whose ciation is shown below:
 
 @inproceedings{node2vec-kdd2016,  
 author = {Grover, Aditya and Leskovec, Jure},  
