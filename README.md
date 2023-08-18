@@ -9,7 +9,7 @@ The code for the project can be found in src, the steps of the project are liste
 003 is for some diagnostic analysis on the graph generated from PPI data.
 004 are used for generation of node embedding features in different dimensions.
 005 is used for visualization of the embedding features in plots.
-006 is used to train, validate and test the classfier using generated features.
+006 is used to train, validate and test the classfier using generated features.//
 
 
 Note: src/node2vec are not codes wrtten by Gen LI, it is an implementation from Aditya Grover and Jure Leskovec, whose ciation is shown below:
